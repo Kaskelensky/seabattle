@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">seabattle</string>
+    <string name="sea_battle">Sea Battle</string>
+    <string name="version">0.1</string>
+</resources>
